@@ -1,7 +1,24 @@
 
+# ShellShock Attack
+
+---
+
+
+---
+
+
 		
 <figure class="wp-block-image"><img decoding="async" src="./ShellShock Attack vulnerability on Bitcoin Ethereum server discovered in GNU Bash cryptocurrency exchange - CRYPTO DEEP TECH_files/G048AB-1024x576.png" alt="ShellShock Attack vulnerability on &quot;Bitcoin&quot; &amp; &quot;Ethereum&quot; server discovered in GNU Bash cryptocurrency exchange" class="wp-image-3631"></figure>
 
+
+---
+
+
+* Tutorial: https://youtu.be/fIYYi1kGEnc
+* Tutorial: https://cryptodeeptech.ru/shellshock-attack-on-bitcoin
+
+
+---
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity">
